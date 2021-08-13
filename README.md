@@ -1,1 +1,1 @@
-# STD C++ librray extensions
+# STD C++ library extensions
